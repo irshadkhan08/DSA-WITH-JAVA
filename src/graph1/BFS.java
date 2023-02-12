@@ -46,6 +46,5 @@ public class BFS {
 
         boolean vis[] = new boolean[v];
         bfs(0,vis);
-
     }
 }
